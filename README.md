@@ -1,6 +1,9 @@
-# catfetcher
+# Apex Legend Randomizer
+Hybridi-websovellus, joka on tehty käyttäen Flutteria ja Dartia. Toimii sekä tietokoneella että mobiililaitteella.
 
-A new Flutter project.
+
+
+
 
 ## Getting Started
 
